@@ -1,0 +1,11 @@
+{
+    "development": {
+      "database": "photosApp",
+      "host": "127.0.0.1",
+      "dialect": "postgres",
+      "logging": false,
+      "username": "postgres",
+      "password": "1234",
+      "port": "5432"
+    }
+  }
